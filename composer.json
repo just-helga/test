@@ -1,0 +1,15 @@
+{
+    "name": "hohlo/test",
+    "autoload": {
+        "psr-4": {
+            "Hohlo\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ol22ga",
+            "email": "chochlovaos5@gmail.com"
+        }
+    ],
+    "require": {}
+}
